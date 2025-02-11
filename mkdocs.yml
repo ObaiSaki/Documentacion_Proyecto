@@ -1,12 +1,12 @@
 
 site_name: Documentación del Proyecto
-site_url: "https://obaisaki.github.io/Documentacion_Proyecto/"
+site_url: https://obaisaki.github.io/Documentacion_Proyecto
 docs_dir: docs_src  # <-- Agrega esta línea
-
+theme: readthedocs
 
 nav:
   - Manual de Usuario: Manual_de_Usuario.md
   - Guía de Referencia: Guia_de_Referencia.md
   - Guía de Instalación: Guia_de_Instalacion.md
-theme:
-  name: mkdocs
+
+ 
